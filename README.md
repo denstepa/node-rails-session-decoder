@@ -1,0 +1,1 @@
+# node-rails-session-decoder
